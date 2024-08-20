@@ -21,7 +21,7 @@ sudo -i
 ```
 ## Clonando o Projeto do Github
 ```powershell
-git clone https://github.com/macarascoza/Linux
+git clone https://github.com/carascoza/docker
 ```
 
 ## Atualizando o repositório local
@@ -52,7 +52,7 @@ sudo -i
 ```
 ## Clonando o Projeto do Github
 ```powershell
-git clone https://github.com/macarascoza/Linux
+git clone https://github.com/carascoza/docker
 ```
 
 ## Atualizando o repositório local

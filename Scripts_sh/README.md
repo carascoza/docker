@@ -8,7 +8,7 @@
 sudo -i
 
 #Clonando o Projeto do Github
-git clone https://github.com/macarascoza/Linux
+git clone https://github.com/carascoza/docker
 
 #Atualizando o repositório local
 cd Linux/Scripts_sh/
@@ -76,7 +76,7 @@ sudo cat /etc/lsb-release
 sudo -i
 
 #Clonando o Projeto do Github
-git clone https://github.com/macarascoza/Linux
+git clone https://github.com/carascoza/docker
 
 #Atualizando o repositório local
 cd Linux/Scripts_sh/
